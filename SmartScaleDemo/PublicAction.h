@@ -6,9 +6,9 @@
 //  Copyright © 2016年 John Huang. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
-#import <CoreGraphics/CoreGraphics.h>
-#import <UIKit/UIKit.h>
+//#import <Foundation/Foundation.h>
+//#import <CoreGraphics/CoreGraphics.h>
+//#import <UIKit/UIKit.h>
 // 工程相关类方法
 @interface PublicAction : NSObject
 
